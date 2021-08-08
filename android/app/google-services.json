@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "153182682192",
+    "firebase_url": "https://mr-mart.firebaseio.com",
+    "project_id": "mr-mart",
+    "storage_bucket": "mr-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153182682192:android:ff1a033b6200944583e555",
+        "android_client_info": {
+          "package_name": "com.example.vin_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153182682192-0cfn52v6gvbjpte7u7v4libhpl3q7o0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vin_chat",
+            "certificate_hash": "1b0a605ed1cc209fcc44f7461a6ff23d7cf1eb18"
+          }
+        },
+        {
+          "client_id": "153182682192-ohss0tc89r7nfavca623b063k6n10nj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_SOEB-YZtH1BoGD-0k6SxfXx78ESCx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153182682192-ohss0tc89r7nfavca623b063k6n10nj7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153182682192-2vs94eii2uvkludgjij9nfbeuc14r2d3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mart.mrMart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153182682192:android:378c11fa2e05db6183e555",
+        "android_client_info": {
+          "package_name": "com.mart.mr_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153182682192-5rud0g1re9u5ej7kt6qe8s8u8eh188c8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mart.mr_mart",
+            "certificate_hash": "1b0a605ed1cc209fcc44f7461a6ff23d7cf1eb18"
+          }
+        },
+        {
+          "client_id": "153182682192-ohss0tc89r7nfavca623b063k6n10nj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_SOEB-YZtH1BoGD-0k6SxfXx78ESCx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153182682192-ohss0tc89r7nfavca623b063k6n10nj7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153182682192-2vs94eii2uvkludgjij9nfbeuc14r2d3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mart.mrMart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153182682192:android:d270fca62c1a29c683e555",
+        "android_client_info": {
+          "package_name": "com.mrmart.mr_mart_delivery_partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153182682192-ohss0tc89r7nfavca623b063k6n10nj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_SOEB-YZtH1BoGD-0k6SxfXx78ESCx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153182682192-ohss0tc89r7nfavca623b063k6n10nj7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153182682192-2vs94eii2uvkludgjij9nfbeuc14r2d3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mart.mrMart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153182682192:android:a1d48e45747d110a83e555",
+        "android_client_info": {
+          "package_name": "com.mrmart.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153182682192-ohss0tc89r7nfavca623b063k6n10nj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_SOEB-YZtH1BoGD-0k6SxfXx78ESCx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153182682192-ohss0tc89r7nfavca623b063k6n10nj7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153182682192-2vs94eii2uvkludgjij9nfbeuc14r2d3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mart.mrMart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
